@@ -1,1 +1,1 @@
-# solidity1
+# VendorMachine contract
